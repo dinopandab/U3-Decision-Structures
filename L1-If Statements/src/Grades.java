@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Grades {
-
+//wow
     public static void main(String[] args){
         Scanner read = new Scanner(System.in);
         String grade = "";
